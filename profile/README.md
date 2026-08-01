@@ -31,7 +31,7 @@ Our current work focuses on the next generation of the Akirama learning engine:
 
 ### [Akirama Nextgen](https://github.com/BogdanDolia/akirama-nextgen)
 
-The open development repository for Akirama's new exercise-generation core,
+The public development repository for Akirama's new exercise-generation core,
 versioned HTTP API, and web laboratory.
 
 The current implementation covers addition and subtraction across one- to
