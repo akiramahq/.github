@@ -7,8 +7,6 @@
 We are building a curriculum-aware learning platform that turns soroban
 methodology into structured, reproducible, and explainable practice.
 
-[Explore Akirama Nextgen](https://github.com/BogdanDolia/akirama-nextgen)
-
 </div>
 
 ## What we are building
@@ -29,10 +27,11 @@ Our current work focuses on the next generation of the Akirama learning engine:
 
 ## Current focus
 
-### [Akirama Nextgen](https://github.com/BogdanDolia/akirama-nextgen)
+### Akirama Nextgen
 
-The public development repository for Akirama's new exercise-generation core,
-versioned HTTP API, and web laboratory.
+Akirama Nextgen is our proprietary platform for curriculum-aware exercise
+generation and mental arithmetic learning. Its source code is private and is
+not distributed under an open-source license.
 
 The current implementation covers addition and subtraction across one- to
 four-digit exercises. Multiplication, division, learner accounts, progress
