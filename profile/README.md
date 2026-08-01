@@ -30,8 +30,8 @@ Our current work focuses on the next generation of the Akirama learning engine:
 ### Akirama Nextgen
 
 Akirama Nextgen is our proprietary platform for curriculum-aware exercise
-generation and mental arithmetic learning. Its source code is private and is
-not distributed under an open-source license.
+generation and mental arithmetic learning. Its source code is proprietary and
+is not distributed under an open-source license.
 
 The current implementation covers addition and subtraction across one- to
 four-digit exercises. Multiplication, division, learner accounts, progress
